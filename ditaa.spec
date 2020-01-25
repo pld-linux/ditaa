@@ -1,7 +1,6 @@
 # TODO:
 # - doesn't build (some varargs problem with jdk 1.6)
 # - use system jars (see lib subdir)
-%include	/usr/lib/rpm/macros.java
 Summary:	DIagrams Through Ascii Art
 Summary(pl.UTF-8):	DIagrams Through Ascii Art - tworzenie diagramów za pomocą ASCII art
 Name:		ditaa
